@@ -4,6 +4,19 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtensionRafaelBalta</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Rafael Mendes</Authors>
+    <PackageDescription>Money Extension for .NET</PackageDescription>
+    <Description>Money Extension for .NET</Description>
+    <RepositoryUrl>https://github.com/rafael-mendes-dev/MoneyExtensions.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/rafael-mendes-dev/MoneyExtensions.git</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>money;extension;dotnet;int;decimal;converter</PackageTags>
+    <Title>MoneyExtensionRafaelBalta</Title>
+    <Summary>Money Extension for .NET</Summary>
   </PropertyGroup>
 
 </Project>
